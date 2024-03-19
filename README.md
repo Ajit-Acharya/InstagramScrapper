@@ -34,4 +34,4 @@
     - `deactivate`
 
 ## License
-This project is under the [MIT License](https://github.com/Ajit-Acharya/InstagramScraper/blob/master/LICENSE.md)
+This project is under the [MIT License](https://github.com/Ajit-Acharya/InstagramScraper/blob/main/LICENSE.md)
