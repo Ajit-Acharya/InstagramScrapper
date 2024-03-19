@@ -3,11 +3,11 @@
 
 ## Installation
 1. Clone:
-   `git clone git@github.com:Ajit-Acharya/InstagramScraper.git`
+   `git clone git@github.com:Ajit-Acharya/InstagramScrapper.git`
 
-    or `git clone https://github.com/Ajit-Acharya/InstagramScraper.git`
+    or `git clone https://github.com/Ajit-Acharya/InstagramScrapper.git`
     
-    or download the [zip](https://github.com/Ajit-Acharya/InstagramScraper/archive/master.zip)
+    or download the [zip](https://github.com/Ajit-Acharya/InstagramScrapper/archive/master.zip)
    
 3. Create Virtual Environment (Recommended)<br/> 
     - `pip install virtualenv`
@@ -34,4 +34,4 @@
     - `deactivate`
 
 ## License
-This project is under the [MIT License](https://github.com/Ajit-Acharya/InstagramScraper/blob/main/LICENSE.md)
+This project is under the [MIT License](https://github.com/Ajit-Acharya/InstagramScrapper/blob/main/LICENSE.md)
